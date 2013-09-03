@@ -3,6 +3,10 @@
 _Speaker: Ken Cochrane_
 
 
+This covers the entire talk and is way better than my notes: 
+https://www.docker.io/the_whole_story/
+
+
 ## Intro
 
 Docker was originally code that powered dotCloud, a PaaS. Original version
