@@ -12,3 +12,9 @@
 - [Getting Started with Salt](getting-started-with-salt.md)
 - [Finding the Needle: Search and Django](finding-the-needle.md)
 - [Writing Fast and Efficient Unit Tests for Django](writing-unit-tests.md)
+
+
+
+
+To donate to the Malcolm Tredinnick Memorial fund, or nominate a recipient,
+email foundation@djangoproject.com.
