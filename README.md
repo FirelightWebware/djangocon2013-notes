@@ -9,7 +9,6 @@
 - [Django and Docker a Marriage Made in Heaven](django-and-docker.md)
 - [Trial by Fire: Real World Performance Optimization](trial-by-fire.md)
 - [Getting Started with Salt](getting-started-with-salt.md)
-- [Finding the Needle: Search and Django](finding-the-needle.md)
 - [Writing Fast and Efficient Unit Tests for Django](writing-unit-tests.md)
 
 
